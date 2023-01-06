@@ -1,0 +1,365 @@
+2023-01-05 20:08:20,111 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2023-01-05 20:34:59,611 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149 [345])
+2023-01-05 20:34:59,615 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149
+2023-01-05 20:34:59,616 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\aether-connector-okhttp-0.17.8.jar
+2023-01-05 20:34:59,617 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-cli-1.4.jar
+2023-01-05 20:34:59,617 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-io-2.6.jar
+2023-01-05 20:34:59,617 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-lang3-3.8.1.jar
+2023-01-05 20:34:59,617 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\guice-4.2.2-no_aop.jar
+2023-01-05 20:34:59,617 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\jansi-2.4.0.jar
+2023-01-05 20:34:59,618 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-artifact-3.8.6.jar
+2023-01-05 20:34:59,618 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-builder-support-3.8.6.jar
+2023-01-05 20:34:59,618 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-compat-3.8.6.jar
+2023-01-05 20:34:59,618 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-core-3.8.6.jar
+2023-01-05 20:34:59,618 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-embedder-3.8.6.jar
+2023-01-05 20:34:59,619 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-3.8.6.jar
+2023-01-05 20:34:59,619 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-builder-3.8.6.jar
+2023-01-05 20:34:59,619 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-plugin-api-3.8.6.jar
+2023-01-05 20:34:59,619 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-repository-metadata-3.8.6.jar
+2023-01-05 20:34:59,619 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-api-1.6.3.jar
+2023-01-05 20:34:59,620 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-01-05 20:34:59,620 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-impl-1.6.3.jar
+2023-01-05 20:34:59,620 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-provider-3.8.6.jar
+2023-01-05 20:34:59,620 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-spi-1.6.3.jar
+2023-01-05 20:34:59,620 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-01-05 20:34:59,620 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-util-1.6.3.jar
+2023-01-05 20:34:59,621 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-3.8.6.jar
+2023-01-05 20:34:59,621 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-builder-3.8.6.jar
+2023-01-05 20:34:59,621 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-shared-utils-3.3.4.jar
+2023-01-05 20:34:59,621 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okhttp-3.14.1.jar
+2023-01-05 20:34:59,621 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okio-1.17.3.jar
+2023-01-05 20:34:59,622 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-01-05 20:34:59,622 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-01-05 20:34:59,622 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-build-api-0.0.7.jar
+2023-01-05 20:34:59,622 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-cipher-2.0.jar
+2023-01-05 20:34:59,622 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-classworlds-2.6.0.jar
+2023-01-05 20:34:59,623 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-component-annotations-2.1.0.jar
+2023-01-05 20:34:59,623 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-interpolation-1.26.jar
+2023-01-05 20:34:59,623 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-sec-dispatcher-2.0.jar
+2023-01-05 20:34:59,623 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-utils-3.3.1.jar
+2023-01-05 20:34:59,623 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-file-3.5.1.jar
+2023-01-05 20:34:59,624 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-provider-api-3.5.1.jar
+2023-01-05 20:34:59,626 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_30.1.0.v20221112-0806 [22])
+2023-01-05 20:34:59,627 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\com.google.guava_30.1.0.v20221112-0806.jar
+2023-01-05 20:34:59,627 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [584])
+2023-01-05 20:34:59,628 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\slf4j.api_1.7.36.jar
+2023-01-05 20:34:59,628 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [49])
+2023-01-05 20:34:59,628 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-01-05 20:34:59,628 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221112-0806 [47])
+2023-01-05 20:34:59,629 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\SpyasDev\Downloads\sts-4.17.1.RELEASE\plugins\javax.annotation_1.3.5.v20221112-0806.jar
+2023-01-05 20:34:59,635 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\SpyasDev\AppData\Local\Temp\m2e-archetypeGenerator15966093473790323736":
+2023-01-05 20:34:59,638 [Worker-5: Launching mavenrun-c127efc0-01e0-49fa-9f8e-567fc419613c] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DgroupId=com.mitocode -DartifactId=spring -Dversion=0.0.1-SNAPSHOT -Dpackage=com.mitocode.spring -DoutputDirectory=C:\ProgramacionCodigos\Java\Spring\STS -Dstyle.color=always -U archetype:generate
+2023-01-05 20:35:48,377 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\ProgramacionCodigos\Java\Spring\STS\spring\pom.xml
+2023-01-05 20:35:49,062 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.8.0/maven-compiler-plugin-3.8.0.pom
+2023-01-05 20:35:49,163 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.8.0/maven-compiler-plugin-3.8.0.pom
+2023-01-05 20:35:49,241 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/32/maven-plugins-32.pom
+2023-01-05 20:35:49,323 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/32/maven-plugins-32.pom
+2023-01-05 20:35:49,385 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/32/maven-parent-32.pom
+2023-01-05 20:35:49,509 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/32/maven-parent-32.pom
+2023-01-05 20:35:49,580 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/20/apache-20.pom
+2023-01-05 20:35:49,650 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/20/apache-20.pom
+2023-01-05 20:35:50,826 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mitocode:spring:0.0.1-SNAPSHOT @ C:\ProgramacionCodigos\Java\Spring\STS\spring\pom.xml.
+2023-01-05 20:35:50,963 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/3.0.2/maven-resources-plugin-3.0.2.pom
+2023-01-05 20:35:51,034 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/3.0.2/maven-resources-plugin-3.0.2.pom
+2023-01-05 20:35:51,104 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/30/maven-plugins-30.pom
+2023-01-05 20:35:51,181 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/30/maven-plugins-30.pom
+2023-01-05 20:35:51,260 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.22.1/maven-surefire-plugin-2.22.1.pom
+2023-01-05 20:35:51,331 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.22.1/maven-surefire-plugin-2.22.1.pom
+2023-01-05 20:35:51,412 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.22.1/surefire-2.22.1.pom
+2023-01-05 20:35:51,486 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.22.1/surefire-2.22.1.pom
+2023-01-05 20:35:51,560 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.0.2/maven-jar-plugin-3.0.2.pom
+2023-01-05 20:35:51,629 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.0.2/maven-jar-plugin-3.0.2.pom
+2023-01-05 20:35:51,703 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.6/plexus-component-annotations-1.6.pom
+2023-01-05 20:35:51,779 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.6/plexus-component-annotations-1.6.pom
+2023-01-05 20:35:51,848 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.6/plexus-containers-1.6.pom
+2023-01-05 20:35:51,920 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.6/plexus-containers-1.6.pom
+2023-01-05 20:35:52,008 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.3.2/plexus-3.3.2.pom
+2023-01-05 20:35:52,081 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.3.2/plexus-3.3.2.pom
+2023-01-05 20:35:52,157 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.1.1/maven-archiver-3.1.1.pom
+2023-01-05 20:35:52,229 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.1.1/maven-archiver-3.1.1.pom
+2023-01-05 20:35:52,303 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.0.1/maven-shared-utils-3.0.1.pom
+2023-01-05 20:35:52,379 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.0.1/maven-shared-utils-3.0.1.pom
+2023-01-05 20:35:52,479 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/3.3/plexus-archiver-3.3.pom
+2023-01-05 20:35:52,551 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/3.3/plexus-archiver-3.3.pom
+2023-01-05 20:35:52,631 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.7.1/plexus-io-2.7.1.pom
+2023-01-05 20:35:52,697 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.7.1/plexus-io-2.7.1.pom
+2023-01-05 20:35:52,766 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.2/commons-io-2.2.pom
+2023-01-05 20:35:52,837 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.2/commons-io-2.2.pom
+2023-01-05 20:35:52,961 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/24/commons-parent-24.pom
+2023-01-05 20:35:53,045 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/24/commons-parent-24.pom
+2023-01-05 20:35:53,105 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.11/commons-compress-1.11.pom
+2023-01-05 20:35:53,181 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.11/commons-compress-1.11.pom
+2023-01-05 20:35:53,266 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/tukaani/xz/1.5/xz-1.5.pom
+2023-01-05 20:35:53,333 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/tukaani/xz/1.5/xz-1.5.pom
+2023-01-05 20:35:53,468 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/3.4/plexus-archiver-3.4.pom
+2023-01-05 20:35:53,538 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/3.4/plexus-archiver-3.4.pom
+2023-01-05 20:35:53,604 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.6/plexus-component-annotations-1.6.jar
+2023-01-05 20:35:53,667 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.0.1/maven-shared-utils-3.0.1.jar
+2023-01-05 20:35:53,667 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.7.1/plexus-io-2.7.1.jar
+2023-01-05 20:35:53,735 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/3.4/plexus-archiver-3.4.jar
+2023-01-05 20:35:53,780 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.1.1/maven-archiver-3.1.1.jar
+2023-01-05 20:35:53,786 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.6/plexus-component-annotations-1.6.jar
+2023-01-05 20:35:53,850 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.11/commons-compress-1.11.jar
+2023-01-05 20:35:54,002 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.7.1/plexus-io-2.7.1.jar
+2023-01-05 20:35:54,002 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.1.1/maven-archiver-3.1.1.jar
+2023-01-05 20:35:54,002 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/3.4/plexus-archiver-3.4.jar
+2023-01-05 20:35:54,002 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.0.1/maven-shared-utils-3.0.1.jar
+2023-01-05 20:35:54,065 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/tukaani/xz/1.5/xz-1.5.jar
+2023-01-05 20:35:54,118 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.24/plexus-utils-3.0.24.jar
+2023-01-05 20:35:54,189 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.11/commons-compress-1.11.jar
+2023-01-05 20:35:54,219 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/tukaani/xz/1.5/xz-1.5.jar
+2023-01-05 20:35:54,290 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.24/plexus-utils-3.0.24.jar
+2023-01-05 20:35:54,690 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.24/plexus-interpolation-1.24.pom
+2023-01-05 20:35:54,792 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.24/plexus-interpolation-1.24.pom
+2023-01-05 20:35:54,865 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.0.0/maven-shared-utils-3.0.0.jar
+2023-01-05 20:35:54,924 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.24/plexus-interpolation-1.24.jar
+2023-01-05 20:35:54,986 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.0.0/maven-shared-utils-3.0.0.jar
+2023-01-05 20:35:55,029 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.24/plexus-interpolation-1.24.jar
+2023-01-05 20:35:55,240 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring/src/main/java
+2023-01-05 20:35:55,247 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring/src/test/java
+2023-01-05 20:35:55,364 [Worker-13: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2023-01-05 20:35:55,772 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11-sources.jar
+2023-01-05 20:35:55,887 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:35:55,888 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\main\resources
+2023-01-05 20:35:55,891 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:35:55,891 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-05 20:35:55,975 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11-sources.jar
+2023-01-05 20:35:55,979 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:4.11
+2023-01-05 20:35:56,225 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar
+2023-01-05 20:35:56,532 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar
+2023-01-05 20:35:56,537 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hamcrest:hamcrest-core:1.3
+2023-01-05 20:35:57,187 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:35:57,187 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\main\resources
+2023-01-05 20:35:57,190 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:35:57,190 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-05 20:36:14,851 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:36:14,851 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\main\resources
+2023-01-05 20:36:14,853 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:36:14,853 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-05 20:36:26,212 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:36:26,213 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\main\resources
+2023-01-05 20:36:26,215 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:36:26,216 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-05 20:42:00,498 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-01-05 20:42:00,727 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mitocode:spring:0.0.1-SNAPSHOT @ C:\ProgramacionCodigos\Java\Spring\STS\spring\pom.xml.
+2023-01-05 20:42:00,840 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring/src/main/java
+2023-01-05 20:42:00,841 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring/src/test/java
+2023-01-05 20:42:00,929 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2023-01-05 20:42:01,052 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:42:01,052 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\main\resources
+2023-01-05 20:42:01,055 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:42:01,055 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-05 20:43:02,987 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:43:02,987 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\main\resources
+2023-01-05 20:43:02,988 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:43:02,989 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-05 20:43:38,265 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar
+2023-01-05 20:43:38,607 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar
+2023-01-05 20:43:39,676 [Worker-17: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mitocode:spring:0.0.1-SNAPSHOT @ C:\ProgramacionCodigos\Java\Spring\STS\spring\pom.xml.
+2023-01-05 20:43:39,816 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.pom
+2023-01-05 20:43:39,996 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.pom
+2023-01-05 20:43:40,336 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:43:40,337 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\main\resources
+2023-01-05 20:43:40,339 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:43:40,339 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-05 20:43:40,596 [AetherRepositoryConnector-repo.maven.apache.org-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.1/plexus-archiver-2.1.jar
+2023-01-05 20:43:40,888 [AetherRepositoryConnector-repo.maven.apache.org-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.2/plexus-io-2.0.2.jar
+2023-01-05 20:43:40,919 [AetherRepositoryConnector-repo.maven.apache.org-2-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.1/commons-lang-2.1.jar
+2023-01-05 20:43:41,192 [AetherRepositoryConnector-repo.maven.apache.org-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/2.1/plexus-archiver-2.1.jar
+2023-01-05 20:43:41,192 [AetherRepositoryConnector-repo.maven.apache.org-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.0.2/plexus-io-2.0.2.jar
+2023-01-05 20:43:41,477 [AetherRepositoryConnector-repo.maven.apache.org-2-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.1/commons-lang-2.1.jar
+2023-01-05 20:43:41,626 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-01-05 20:43:41,710 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.2.0.RELEASE/spring-context-4.2.0.RELEASE-sources.jar
+2023-01-05 20:43:41,798 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mitocode:spring:0.0.1-SNAPSHOT @ C:\ProgramacionCodigos\Java\Spring\STS\spring\pom.xml.
+2023-01-05 20:43:41,897 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring/src/main/java
+2023-01-05 20:43:41,898 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring/src/test/java
+2023-01-05 20:43:41,987 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0,00 sec, refresh facades takes 0,00 sec, update config takes 0,00 sec 
+2023-01-05 20:43:42,661 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:43:42,662 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\main\resources
+2023-01-05 20:43:42,664 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:43:42,664 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-05 20:43:43,343 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.2.0.RELEASE/spring-context-4.2.0.RELEASE-sources.jar
+2023-01-05 20:43:43,346 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context:4.2.0.RELEASE
+2023-01-05 20:43:44,140 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.2.0.RELEASE/spring-aop-4.2.0.RELEASE-sources.jar
+2023-01-05 20:43:45,202 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.2.0.RELEASE/spring-aop-4.2.0.RELEASE-sources.jar
+2023-01-05 20:43:45,209 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-aop:4.2.0.RELEASE
+2023-01-05 20:43:46,227 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0-sources.jar
+2023-01-05 20:43:46,675 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0-sources.jar
+2023-01-05 20:43:46,677 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for aopalliance:aopalliance:1.0
+2023-01-05 20:43:47,289 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.2.0.RELEASE/spring-beans-4.2.0.RELEASE-sources.jar
+2023-01-05 20:43:48,641 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.2.0.RELEASE/spring-beans-4.2.0.RELEASE-sources.jar
+2023-01-05 20:43:48,644 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:4.2.0.RELEASE
+2023-01-05 20:43:49,682 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.2.0.RELEASE/spring-core-4.2.0.RELEASE-sources.jar
+2023-01-05 20:43:50,764 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.2.0.RELEASE/spring-core-4.2.0.RELEASE-sources.jar
+2023-01-05 20:43:50,766 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-core:4.2.0.RELEASE
+2023-01-05 20:43:51,744 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar
+2023-01-05 20:43:52,176 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar
+2023-01-05 20:43:52,179 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-logging:commons-logging:1.2
+2023-01-05 20:43:53,369 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.2.0.RELEASE/spring-expression-4.2.0.RELEASE-sources.jar
+2023-01-05 20:43:54,061 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.2.0.RELEASE/spring-expression-4.2.0.RELEASE-sources.jar
+2023-01-05 20:43:54,064 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-expression:4.2.0.RELEASE
+2023-01-05 20:43:54,261 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:43:54,261 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\main\resources
+2023-01-05 20:43:54,262 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:43:54,262 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-05 20:44:21,248 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:44:21,249 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\main\resources
+2023-01-05 20:44:21,250 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:44:21,251 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-05 20:44:22,261 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:44:22,261 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\main\resources
+2023-01-05 20:44:22,263 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:44:22,263 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-05 20:45:04,027 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:45:04,028 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\main\resources
+2023-01-05 20:45:04,029 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:45:04,029 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-05 20:45:52,441 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:45:52,441 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\main\resources
+2023-01-05 20:45:52,443 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:45:52,443 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-05 20:51:23,087 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:51:23,088 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\main\resources
+2023-01-05 20:51:23,089 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:51:23,089 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-05 20:51:44,707 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:51:44,707 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\main\resources
+2023-01-05 20:51:44,709 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:51:44,709 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-05 20:52:59,333 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:52:59,343 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-05 20:52:59,345 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:52:59,345 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-05 20:54:43,530 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:54:43,532 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-05 20:54:43,533 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:54:43,533 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-05 20:55:22,292 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:55:22,293 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-05 20:55:22,295 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:55:22,295 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-05 20:57:42,405 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:57:42,407 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-05 20:57:42,418 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 20:57:42,418 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-05 21:15:53,303 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 21:15:53,304 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-05 21:15:53,306 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 21:15:53,306 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-05 21:16:45,617 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 21:16:45,617 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-05 21:16:45,619 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 21:16:45,619 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-05 21:21:57,987 [Worker-31: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 21:21:57,987 [Worker-31: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-05 21:21:57,988 [Worker-31: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 21:21:57,989 [Worker-31: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-05 21:23:19,484 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 21:23:19,485 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-05 21:23:19,488 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 21:23:19,488 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-05 21:24:08,868 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 21:24:08,870 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-05 21:24:08,871 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-05 21:24:08,871 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-06 11:58:53,195 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-06 12:17:41,126 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:17:41,130 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-06 12:17:41,136 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:17:41,137 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-06 12:19:07,925 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:19:07,929 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-06 12:19:07,933 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:19:07,933 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-06 12:19:39,505 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:19:39,507 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-06 12:19:39,509 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:19:39,509 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-06 12:19:42,021 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:19:42,022 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-06 12:19:42,024 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:19:42,025 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-06 12:20:06,383 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:20:06,385 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-06 12:20:06,388 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:20:06,388 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-06 12:20:18,652 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:20:18,653 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-06 12:20:18,654 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:20:18,655 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-06 12:24:57,790 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:24:57,792 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-06 12:24:57,795 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:24:57,795 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-06 12:25:39,496 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:25:39,497 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-06 12:25:39,500 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:25:39,500 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-06 12:29:34,499 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:29:34,500 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-06 12:29:34,501 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:29:34,501 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-06 12:29:39,653 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:29:39,654 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-06 12:29:39,655 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:29:39,655 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-06 12:30:09,288 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:30:09,290 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-06 12:30:09,291 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:30:09,292 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-06 12:30:59,526 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:30:59,527 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-06 12:30:59,528 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:30:59,529 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-06 12:31:31,786 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:31:31,787 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-06 12:31:31,788 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:31:31,789 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-06 12:33:26,857 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:33:26,858 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-06 12:33:26,860 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:33:26,860 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-06 12:34:05,413 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:34:05,414 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-06 12:34:05,415 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:34:05,416 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-06 12:34:47,039 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:34:47,039 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-06 12:34:47,041 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:34:47,041 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-06 12:35:27,268 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:35:27,269 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-06 12:35:27,270 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:35:27,270 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-06 12:48:20,971 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:48:20,972 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-06 12:48:20,974 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:48:20,974 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-06 12:49:12,778 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:49:12,779 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-06 12:49:12,781 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:49:12,781 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-06 12:51:14,510 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:51:14,511 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-06 12:51:14,513 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:51:14,513 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-06 12:53:50,241 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:53:50,241 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-06 12:53:50,242 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:53:50,242 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-06 12:54:11,492 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:54:11,493 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-06 12:54:11,494 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:54:11,494 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-06 12:54:43,976 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:54:43,977 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-06 12:54:43,978 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:54:43,978 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-06 12:55:28,571 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:55:28,571 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-01-06 12:55:28,572 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:55:28,572 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources
+2023-01-06 12:55:50,086 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:55:50,087 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-06 12:55:50,089 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-06 12:55:50,089 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProgramacionCodigos\Java\Spring\STS\spring\src\test\resources

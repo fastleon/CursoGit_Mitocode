@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    
+	<bean id="persona" class="com.mitocode.beans.Persona">
+		<property name="pais" ref="pais"></property>  
+		<!-- Se usa ref = referencia cuando se llama a otro bean, en este caso el siguiente bean con id pais-->
+		<!-- los demas valores del objeto son asignado con value que le da el valor directamente -->
+		<property name="id" value="1"></property>
+		<property name="nombre" value="Jaime"></property>
+		<property name="apodo" value="Mitocode"></property>
+	</bean>
+	
+	<bean id="pais" class="com.mitocode.beans.Pais">
+		<property name="nombre" value="Perú"></property>
+	</bean>
+    
+</beans>
