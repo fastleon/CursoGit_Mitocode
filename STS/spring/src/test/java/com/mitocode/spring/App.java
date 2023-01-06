@@ -1,10 +1,11 @@
 package com.mitocode.spring;
 
 import org.springframework.context.ApplicationContext;
+import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import com.mitocode.beans.Ciudad;
-import com.mitocode.beans.Mundo;
+import com.mitocode.beans.Jugador;
 import com.mitocode.beans.Persona;
 
 public class App {
@@ -25,6 +26,19 @@ public class App {
 		//pero si es prototype se crean dos objetos con los mismos datos
 		System.out.println(per);
 		System.out.println(per2);
+		
+		((ConfigurableApplicationContext) appContext).close(); //cerrar el bean
+		
+		//--------------------------------------------
+		//Ejercicio 2, implementacion Messi, beans2.xml
+		
+		ApplicationContext appContext2 = new ClassPathXmlApplicationContext("com/mitocode/xml/beans2.xml");
+		Jugador jug = (Jugador) appContext2.getBean("messi");
+		System.out.println(jug.getNombre() + " "+ jug.getNumero() + " " + jug.getEquipo().mostrar());
+		
+		((ConfigurableApplicationContext) appContext2).close(); //cerrar el bean
+		
+		
 	}
 
 }

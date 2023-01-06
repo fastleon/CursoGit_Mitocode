@@ -3,8 +3,13 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
     
-	<bean id="persona" class="com.mitocode.beans.Persona" scope="prototype">
+    <!-- Bean Necesario para usar anotaciones PostContruct y PreDestoy
+    <bean class="org.springframework.context.annotation.CommonAnnotationBeanPostProcessor"></bean>
+    -->
+    
+	<bean id="persona" class="com.mitocode.beans.Persona" scope="singleton" init-method="init" destroy-method="destroy">
 		<!--Scope singleton, crea instancias del mismo objeto, prototype crea objetos con el mismo valor-->
+		<!--init method y destroy method se puede usar en la etiqueta beans para aplicarlo a todos los bean, se debe geenrar el metodo en todas las clases-->
 		<property name="pais" ref="pais"></property>  
 		<!-- Se usa ref = referencia cuando se llama a otro bean, en este caso el siguiente bean con id pais-->
 		<!-- los demas valores del objeto son asignado con value que le da el valor directamente -->

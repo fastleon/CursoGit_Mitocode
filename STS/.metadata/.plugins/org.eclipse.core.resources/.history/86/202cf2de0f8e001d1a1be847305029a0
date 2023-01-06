@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    
+    <!-- Bean Necesario para usar anotaciones PostContruct y PreDestoy
+    <bean class="org.springframework.context.annotation.CommonAnnotationBeanPostProcessor"></bean>
+    -->
+    
+	<bean id="persona" class="com.mitocode.beans.Persona" scope="singleton" init-method="init" destroy-method="destroy">
+		<!--Scope singleton, crea instancias del mismo objeto, prototype crea objetos con el mismo valor-->
+		<!--init method y destroy method se puede usar en la etiqueta beans para aplicarlo a todos los bean, se debe geenrar el metodo en todas las clases-->
+		<property name="pais" ref="pais"></property>  
+		<!-- Se usa ref = referencia cuando se llama a otro bean, en este caso el siguiente bean con id pais-->
+		<!-- los demas valores del objeto son asignado con value que le da el valor directamente -->
+		<property name="id" value="1"></property>
+		<property name="nombre" value="Jaime"></property>
+		<property name="apodo" value="Mitocode"></property>
+	</bean>
+	
+	<bean id="pais" class="com.mitocode.beans.Pais">
+		<property name="nombre" value="Perú"></property>
+		<property name="ciudades">
+			<list>
+				<ref bean="ciudad1"/>
+				<ref bean="ciudad2"/>
+				<ref bean="ciudad3"/>
+			</list>
+		</property> <!-- llama al bean con id "ciudad"-->
+	</bean>
+	
+	<bean id="ciudad1" class="com.mitocode.beans.Ciudad">
+		<property name="nombre" value="Lima"></property>
+	</bean>
+	<bean id="ciudad2" class="com.mitocode.beans.Ciudad">
+		<property name="nombre" value="Piura"></property>
+	</bean>
+	<bean id="ciudad3" class="com.mitocode.beans.Ciudad">
+		<property name="nombre" value="Chiclayo"></property>
+	</bean>
+	
+	<!-- Ejercicio2-->
+	<bean id="messi" class="com.mitocode.beans.Jugador">
+		<property name="numero" value="10"></property>
+		<property name="nombre" value="Lionel Messi"></property>
+		<property name="IEquipo" ref="barcelona"></property>
+	</bean>
+	<bean id="barcelona" class="com.mitocode.beans.Barcelona"></bean>
+	<bean id="juventus" class="com.mitocode.beans.Juventus"></bean>
+    
+</beans>

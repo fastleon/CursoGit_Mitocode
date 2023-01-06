@@ -7,6 +7,17 @@ public class Persona {
 	private String apodo;
 	private Pais pais;
 	
+	//Si se usa anotaciones se usaría @PostContruct junto al bean annotation
+	private void init() {
+		System.out.println("Antes de inicializar el bean");
+	}
+	
+	//Si se usa anotaciones se usaría @PreDestroy junto al bean annotation
+	private void destroy() {
+		System.out.println("Antes de destruir el bean");
+		//funciono solo con scope singleton, no con prototype
+	}
+	
 	public int getId() {
 		return id;
 	}
