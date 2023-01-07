@@ -1,0 +1,5 @@
+package com.mitocode.interfaces;
+
+public interface IEquipo2 {
+
+}

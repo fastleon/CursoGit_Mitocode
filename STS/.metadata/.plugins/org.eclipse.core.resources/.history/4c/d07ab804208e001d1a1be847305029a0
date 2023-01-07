@@ -1,0 +1,43 @@
+package com.mitocode.spring;
+
+import java.util.Scanner;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.ConfigurableApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+import com.mitocode.beans.Ciudad;
+import com.mitocode.beans.Jugador;
+import com.mitocode.beans.Persona;
+import com.mitocode.beans2.Jugador2;
+
+public class App2_XML {
+	
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Elija un equipo: 1-Barcelona, 2-Juventus");
+		int respuesta = sc.nextInt();
+		
+		ApplicationContext appContext = new ClassPathXmlApplicationContext("com/mitocode/xml/beans2.xml");
+		
+		Jugador2 jug = (Jugador2) appContext.getBean("jugador1");
+		
+		switch(respuesta) {
+		case 1:
+			jug.setEquipo(new Barcelona());
+			break;
+		case 2:
+			jug.setEquipo(new Juventus());
+		default:
+			break;
+		}
+		
+		
+		System.out.println(jug.getNombre() + "-" + jug.getEquipo().mostrar() + "-" + jug.getCamiseta().getNumero() + "-" + jug.getCamiseta().getMarca().getNombre() ) ;
+		
+		((ConfigurableApplicationContext) appContext).close(); //cerrar el bean
+		
+	}
+
+}

@@ -1,0 +1,8 @@
+package com.mitocode.beans2;
+
+public class Marca {
+
+	private int id;
+	private String nombre;
+	
+}

@@ -1,0 +1,24 @@
+package com.mitocode.spring;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.ConfigurableApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+import com.mitocode.beans.Ciudad;
+import com.mitocode.beans.Jugador;
+import com.mitocode.beans.Persona;
+
+public class App2_XML {
+	
+	public static void main(String[] args) {
+		ApplicationContext appContext = new ClassPathXmlApplicationContext("com/mitocode/xml/beans2.xml");
+		
+		Jugador jug = (Jugador) appContext.getBean("jugador1");
+		
+		System.out.println(jug.getNombre() + "-" + jug.getEquipo().mostrar() + "-" + jug.get);
+		
+		((ConfigurableApplicationContext) appContext).close(); //cerrar el bean
+		
+	}
+
+}

@@ -1,0 +1,11 @@
+package com.mitocode.beans2;
+
+public class Jugador {
+	//Usado para ejercicio Turtorial 22 Ejercicio XML
+	
+	private int id;
+	private String nombre;
+	private IEquipo equipo;
+	private Camiseta camiseta;
+	
+}
