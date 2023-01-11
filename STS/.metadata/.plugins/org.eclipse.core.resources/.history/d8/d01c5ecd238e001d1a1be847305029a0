@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    
+    <!--Configuracion usado para el tutorial XML capitulo 22 del curso Mitocode-->
+    <!--bean para llamar la anotacion Requiered usada en la clase Jugador setter de IEQuipo-->
+    <bean class="org.springframework.beans.factory.annotation.RequiredAnnotationBeanPostProcessor"></bean>
+    
+	<!-- Ejercicio2 Implementacion Messi-->
+	<bean id="jugador1" class="com.mitocode.beans3.Jugador">
+		<property name="id" value="10"></property>
+		<property name="nombre" value="Lionel Messi"></property>
+		<property name="equipo" ref="barcelona"></property>
+		<property name="camiseta" ref="camiseta1"></property>
+	</bean>
+	
+	<bean id="barcelona" class="com.mitocode.beans3.Barcelona"></bean>
+    
+    <bean id="juventus" class="com.mitocode.beans3.Juventus"></bean>
+    
+    <bean id="camiseta1" class="com.mitocode.beans3.Camiseta">
+		<property name="id" value="1"></property>
+		<property name="numero" value="10"></property>
+		<property name="marca" ref="marca1"></property>
+	</bean>
+	
+	<bean id="marca1" class="com.mitocode.beans3.Marca">
+		<property name="id" value="1"></property>
+		<property name="nombre" value="Marca 1 OK"></property>
+	</bean>
+    
+</beans>

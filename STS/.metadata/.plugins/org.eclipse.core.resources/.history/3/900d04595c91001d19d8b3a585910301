@@ -1,0 +1,17 @@
+package com.mitocode.spring;
+
+import org.springframework.context.annotation.Configuration;
+
+import com.mitocode.beans3.Jugador;
+
+//Aplicacion con solo codigo Java tutorial 24 MitoCode
+
+@Configuration
+public class AppConfig4 {
+	
+	public Jugador jugador1() {  //En este caso el nombre del metodo es el mismo ID del Bean
+		return new Jugador();
+	}
+
+}
+ 

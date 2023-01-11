@@ -1,0 +1,12 @@
+package com.mitocode.beans3;
+
+import com.mitocode.interfaces.IEquipo;
+
+public class Juventus implements IEquipo{
+
+	@Override
+	public String mostrar() {
+		return "Juventus Futbol Club";
+	}
+
+}
